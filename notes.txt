@@ -1,0 +1,54 @@
+we have full stack , frontend(client) , backend(server) , mobile application and data science framework for faster development 
+
+example of full stack - Django , Ruby on rails , Laravel
+
+example of front end(css) - Bootstarp , Tailwind , Foundation , Bulma , Materialize 
+
+example of js framework  - react ,  angular , vue
+
+example of backend - zend  , spring boot , flask , Django , Node.js , Express.js
+
+example of mobile application framework - flutter , react native 
+
+example of data science framework - pyTorch , Aparche Spark 
+
+
+need of framework :
+    faster development
+    consistency 
+    reusability
+    responsive design
+    reduced errors
+
+
+advantages of framework :
+    time saving 
+    efficiency 
+    standard structure
+    easy maintainance 
+    cross browser compatibility
+    security features
+    large community & documentation
+    scalability
+
+Bootstrap :
+    twitter 2011
+    open source 
+    oldest n most established
+    Bootstarp 5
+    component based framework
+    utilizes a 12 column grid system to create a resposnive layout 
+    cross browser compatibility
+    medium design flexibility
+
+Tailwind CSS : 
+    modern and popular
+    2017
+    utility first framework
+    open source
+    Tailwind 4
+    uses utility classes and responsive breakpoints to create layout instead of grid system
+    high design flexibility
+
+
+
