@@ -1,0 +1,4 @@
+cdn version -> 3-4 mb
+build version -> 30-50 kb
+
+iss bar jo test hoga vo fusion stack mai hoga
