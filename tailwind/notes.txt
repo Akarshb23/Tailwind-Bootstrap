@@ -2,3 +2,9 @@ cdn version -> 3-4 mb
 build version -> 30-50 kb
 
 iss bar jo test hoga vo fusion stack mai hoga
+
+sm-640px
+md - 768px
+lg - 1024px
+xl - 1280px
+2xl - 1536px
